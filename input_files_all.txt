@@ -1,0 +1,11 @@
+lichess_db_standard_rated_2024-11.pgn.zst
+lichess_db_standard_rated_2024-10.pgn.zst
+lichess_db_standard_rated_2024-09.pgn.zst
+lichess_db_standard_rated_2024-08.pgn.zst
+lichess_db_standard_rated_2024-07.pgn.zst
+lichess_db_standard_rated_2024-06.pgn.zst
+lichess_db_standard_rated_2024-05.pgn.zst
+lichess_db_standard_rated_2024-04.pgn.zst
+lichess_db_standard_rated_2024-03.pgn.zst
+lichess_db_standard_rated_2024-02.pgn.zst
+lichess_db_standard_rated_2024-01.pgn.zst
